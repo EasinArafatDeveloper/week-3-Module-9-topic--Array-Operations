@@ -2,6 +2,9 @@
 
 # 🚀 Fundamental Array Operations & Competitive Programming
 
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/easin_arafat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Site-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://easin-portfolio.netlify.app/)
+
 Welcome to my repository focused on **Mastering Array Manipulations** in C. This project showcases a blend of fundamental data structure operations and their applications in solving complex **Codeforces** problems. Designed with a focus on efficiency, logic, and clean code, this repo reflects my journey in building a solid foundation in Computer Science.
 
 ---
@@ -79,4 +82,10 @@ In `M_Replace_MinMax.c`, the challenge was finding both the minimum and maximum 
 <div align="center">
   <h3>Connect with me</h3>
   <p>Exploring the world of Algorithms & Data Structures, one problem at a time.</p>
+  <a href="https://codeforces.com/profile/easin_arafat">
+    <img src="https://img.shields.io/badge/Codeforces-easin__arafat-FFD700?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+  <a href="https://easin-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
