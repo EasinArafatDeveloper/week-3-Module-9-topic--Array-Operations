@@ -40,6 +40,27 @@ Array manipulation is a foundational skill for any software engineer. In this mo
 
 ---
 
+## 🧩 Codeforces Problems Solved
+
+This section highlights solutions to specific challenges from Codeforces that apply array manipulation techniques in a competitive programming context.
+
+### 1. Reversing (`F_Reversing.c`)
+- **Problem**: Reverse an array of $N$ integers.
+- **Approach**: Similar to the fundamental reverse operation, using two pointers to swap elements from both ends towards the center.
+
+### 2. Palindrome Array (`G_Palindrome_Array.c`)
+- **Problem**: Determine if a given array is a palindrome (reads the same forwards and backwards).
+- **Approach**: Complements the two-pointer technique by comparing elements at symmetric positions. If any pair differs, the array is not a palindrome.
+
+### 3. Replace MinMax (`M_Replace_MinMax.c`)
+- **Problem**: Find the minimum and maximum elements in an array and swap their positions.
+- **Approach**: 
+    - Iterates through the array to identify the values and indices of both `min` and `max`.
+    - Uses a temporary variable to perform the swap between the identified indices.
+    - Demonstrates efficient search and target modification.
+
+---
+
 ## 💻 Tech Stack
 - **Language**: C
 - **Compiler**: GCC
